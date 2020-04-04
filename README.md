@@ -7,19 +7,19 @@ This repository is used to generate various visualizations to display various me
 
 Metrics include: 
 - New cases each day
-![image](https://user-images.githubusercontent.com/46336522/78458723-80ae8080-7681-11ea-971f-f4585f2f96c8.png)
+![Screenshot_2020-04-04 Covid Cases - Jupyter Notebook](https://user-images.githubusercontent.com/46336522/78460964-70070600-7693-11ea-936c-8ba4fe6433e4.png)
 
 - Total new cases
-![Screenshot_2020-04-04 Screenshot(1)](https://user-images.githubusercontent.com/46336522/78418785-a732d400-760d-11ea-88f6-d501d96bb917.png)
+![Screenshot_2020-04-04 Covid Cases - Jupyter Notebook(1)](https://user-images.githubusercontent.com/46336522/78460977-81e8a900-7693-11ea-82e7-df69e291379a.png)
 
 - Total deaths
-![Screenshot_2020-04-04 Screenshot(2)](https://user-images.githubusercontent.com/46336522/78418791-b580f000-760d-11ea-9b51-7c1ba9cea02e.png)
+![Screenshot_2020-04-04 Covid Cases - Jupyter Notebook(2)](https://user-images.githubusercontent.com/46336522/78460985-92991f00-7693-11ea-8b3e-cc4f9e04b423.png)
 
 - Mortality rates
-![Screenshot_2020-04-04 Screenshot(3)](https://user-images.githubusercontent.com/46336522/78418795-c3367580-760d-11ea-9842-0f042b19922c.png)
+![Screenshot_2020-04-04 Covid Cases - Jupyter Notebook(3)](https://user-images.githubusercontent.com/46336522/78460990-9d53b400-7693-11ea-9ec4-a3435f99a78e.png)
 
 - Cases per 100,000 people
-![Screenshot_2020-04-04 Screenshot(4)](https://user-images.githubusercontent.com/46336522/78418798-cb8eb080-760d-11ea-9dee-d8897e09d02f.png)
+![Screenshot_2020-04-04 Covid Cases - Jupyter Notebook(4)](https://user-images.githubusercontent.com/46336522/78460996-a9d80c80-7693-11ea-8c19-b1c0226ff057.png)
 
 ## Sources
 All line charts are generated using [Python's plotly package](https://plotly.com/python/line-charts/)
