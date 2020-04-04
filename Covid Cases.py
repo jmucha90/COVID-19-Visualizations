@@ -256,26 +256,7 @@ fig.add_trace(go.Scatter(x=skcase_death['Date'], y=skcase_death['Total Cases'], 
 
 fig.update_layout(title='Total Coronavirus Cases',
                   xaxis_title='Date',
-                  yaxis_title='Cases',
-                  annotations=[dict(
-                      x="09/03/2020",
-                      y=int(italycase_death['Total Cases']
-                            [italycase_death['Date'] == '09/03/2020']),
-                      xref="x",
-                      yref="y",
-                      text="Italy Quarantine",
-                      showarrow=True,
-                      arrowhead=7,
-                      ax=-20,
-                      ay=-40
-                  )])
-
-fig.add_annotation(
-    x="13/03/2020",
-    y=int(spaincase_death['Total Cases']
-          [spaincase_death['Date'] == '13/03/2020']),
-    text="Spain Quarantine",
-    arrowhead=7, ax=0)
+                  yaxis_title='Cases')
 
 fig.show()
 
