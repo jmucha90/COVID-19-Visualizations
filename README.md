@@ -4,7 +4,7 @@ This repository is used to generate various visualizations to display various me
 
 Metrics include: 
 - New cases each day
-![Screenshot_2020-04-04 Screenshot](https://user-images.githubusercontent.com/46336522/78418759-6aff7380-760d-11ea-9e20-ded04eeaa1bd.png)
+![image](https://user-images.githubusercontent.com/46336522/78458723-80ae8080-7681-11ea-971f-f4585f2f96c8.png)
 
 - Total new cases
 ![Screenshot_2020-04-04 Screenshot(1)](https://user-images.githubusercontent.com/46336522/78418785-a732d400-760d-11ea-88f6-d501d96bb917.png)
